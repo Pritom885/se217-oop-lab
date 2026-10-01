@@ -3,7 +3,9 @@ SE 217 — OOP Lab
 Week 2: Java Practice Programs
 
 Name: Pritom Kundu
+
 Student ID: 252-35-020
+
 Section: 45-H2
 
 About This Repository: 
