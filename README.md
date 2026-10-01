@@ -14,7 +14,7 @@ Repository Structure
 
 ```text
 se217-oop-lab/
-├── README.md
+├── README.me
 └── week02/
     └── src/
         └── Java practice programs
